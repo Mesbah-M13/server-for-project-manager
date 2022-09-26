@@ -1,0 +1,205 @@
+{
+    "users": [
+        {
+            "email": "sumit@learnwithsumit.com",
+            "password": "$2a$10$tGMlJhQmAnx7f4cIVY55FOtIRV91wjRwBhdpaANPoslku3P/aAjPK",
+            "name": "Sumit Saha",
+            "img": "https://thumbs.dreamstime.com/b/businessman-icon-vector-male-avatar-profile-image-profile-businessman-icon-vector-male-avatar-profile-image-182095609.jpg",
+            "id": 1
+        },
+        {
+            "email": "akash@learnwithsumit.com",
+            "password": "$2a$10$Oc6jXnK6/pbSqmkngo/b.OhsU3JRf4OU1h9QwIoqz8ZUpG/hgHq72",
+            "name": "Akash Ahmed",
+            "img": "https://img.freepik.com/premium-vector/female-user-profile-avatar-is-woman-character-screen-saver-with-emotions_505620-617.jpg",
+            "id": 2
+        },
+        {
+            "email": "saad@learnwithsumit.com",
+            "password": "$2a$10$DVGOgchZrtvb1w6Pj.B0D.DXmHmoTsdy3oXfwF.02kE/pzJ7jyHqy",
+            "name": "Saad Hasan",
+            "img": "https://st4.depositphotos.com/1006318/21583/v/450/depositphotos_215836924-stock-illustration-bald-head-businessman-avatar-man.jpg",
+            "id": 3
+        },
+        {
+            "email": "test1@gmail.com",
+            "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+            "name": "Devid luis",
+            "img": "https://thumbs.dreamstime.com/b/brunette-businessman-avatar-man-face-profile-icon-concept-online-support-service-male-cartoon-character-portrait-brunette-126956879.jpg",
+            "id": 4
+        },
+        {
+            "email": "test2@gmail.com",
+            "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+            "name": "Peterson",
+            "img": "https://thumbs.dreamstime.com/b/blond-businessman-avatar-man-face-profile-icon-concept-online-support-service-male-cartoon-character-portrait-isolated-flat-vector-126956763.jpg",
+            "id": 5
+        },
+        {
+            "email": "test3@gmail.com",
+            "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+            "name": "Musrat Narma",
+            "img": "https://cdn1.iconfinder.com/data/icons/avatar-2-2/512/Salesman_1-512.png",
+            "id": 6
+        },
+        {
+            "email": "test4@gmail.com",
+            "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+            "name": "Luis Febino",
+            "img": "https://cdn4.iconfinder.com/data/icons/business-conceptual-part1-1/513/business-man-512.png",
+            "id": 7
+        },
+        {
+            "email": "test5@gmail.com",
+            "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+            "name": "Cris Nevi",
+            "img": "https://cdn1.vectorstock.com/i/1000x1000/73/15/female-avatar-profile-icon-round-woman-face-vector-18307315.jpg",
+            "id": 8
+        },
+        {
+            "email": "test6@gmail.com",
+            "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+            "name": "Tuslim Nuro",
+            "img": "https://cdn5.vectorstock.com/i/1000x1000/72/59/female-avatar-profile-icon-round-african-american-vector-18307259.jpg",
+            "id": 9
+        },
+        {
+            "email": "test7@gmail.com",
+            "password": "$2a$10$.Yw4t3v3IwR3dPm4rvAskOHwK1Clu7sLY.i.hxPRztsUF4U9fYN4S",
+            "name": "Mario Nafio",
+            "img": "https://cdn1.vectorstock.com/i/1000x1000/72/90/female-avatar-profile-icon-round-woman-face-vector-18307290.jpg",
+            "id": 10
+        },
+        {
+            "email": "rifat@gmail.com",
+            "password": "$2a$12$9/WXa6AVREqNhuLCT9zhqObKJKPtho5bkE6SiNfizKLiBQ4WqOnK2",
+            "name": "Rifat Islam",
+            "img": "https://cdn3.vectorstock.com/i/thumb-large/30/97/flat-business-man-user-profile-avatar-icon-vector-4333097.jpg",
+            "id": 11
+        }
+    ],
+    "teams": [
+        {
+            "name": "Design",
+            "title": "A design team can be made up of one designer or a group of designers.",
+            "color": "red",
+            "members": ["rifat@gmail.com"],
+            "creator": "rifat@gmail.com",
+            "timestamp": 1662704970215,
+            "id": 1
+        },
+        {
+            "name": "Tech",
+            "title": "A tech team can be made up of one developer or a group of developers.",
+            "color": "green",
+            "members": ["rifat@gmail.com"],
+            "creator": "rifat@gmail.com",
+            "timestamp": 1519211809934,
+            "id": 2
+        },
+        {
+            "name": "Sales",
+            "title": "A sales team can be made up of one sales executive or a group of sales executives.",
+            "color": "blue",
+            "members": ["rifat@gmail.com"],
+            "creator": "rifat@gmail.com",
+            "timestamp": 1519211810362,
+            "id": 3
+        },
+        {
+            "name": "Planning",
+            "title": "A planning team can be made up of one planner or a group of planners.",
+            "color": "yellow",
+            "members": ["rifat@gmail.com"],
+            "creator": "rifat@gmail.com",
+            "timestamp": 1519129858900,
+            "id": 4
+        }
+    ],
+    "projects": [
+        {
+            "name": "Project Breeze",
+            "title": "A simple-to-use project management software that keeps everyone on the same page.",
+            "color": "orange",
+            "status": "backlog",
+            "timestamp": 1662704970215,
+            "creator": {
+                "email": "sumit@learnwithsumit.com",
+                "name": "Sumit Saha",
+                "img": "https://thumbs.dreamstime.com/b/businessman-icon-vector-male-avatar-profile-image-profile-businessman-icon-vector-male-avatar-profile-image-182095609.jpg"
+            },
+            "style": "",
+            "id": 1
+        },
+        {
+            "name": "Command Program",
+            "title": "Command are orders to computer program to perform particular task.",
+            "color": "blue",
+            "status": "ready",
+            "timestamp": 1519211809934,
+            "creator": {
+                "email": "akash@learnwithsumit.com",
+                "name": "Akash Ahmed",
+                "img": "https://img.freepik.com/premium-vector/female-user-profile-avatar-is-woman-character-screen-saver-with-emotions_505620-617.jpg"
+            },
+            "style": "",
+            "id": 2
+        },
+        {
+            "name": "Project Point",
+            "title": "Project points out a pan-European network as a stochastic model operation.",
+            "color": "yellow",
+            "status": "doing",
+            "timestamp": 1519211810362,
+            "creator": {
+                "email": "saad@learnwithsumit.com",
+                "name": "Saad Hasan",
+                "img": "https://st4.depositphotos.com/1006318/21583/v/450/depositphotos_215836924-stock-illustration-bald-head-businessman-avatar-man.jpg"
+            },
+            "style": "",
+            "id": 3
+        },
+        {
+            "name": "Project Mecha",
+            "title": "This is a brand new and high quality mechanical robot moc building block.",
+            "color": "fuchsia",
+            "status": "review",
+            "timestamp": 1519211810362,
+            "creator": {
+                "email": "test1@gmail.com",
+                "name": "Devid luis",
+                "img": "https://thumbs.dreamstime.com/b/brunette-businessman-avatar-man-face-profile-icon-concept-online-support-service-male-cartoon-character-portrait-brunette-126956879.jpg"
+            },
+            "style": "",
+            "id": 4
+        },
+        {
+            "name": "Program Pad",
+            "title": "Program offers a specialized rehabilitation program for individuals.",
+            "color": "red",
+            "status": "blocked",
+            "timestamp": 1519129858900,
+            "creator": {
+                "email": "akash@learnwithsumit.com",
+                "name": "Akash Ahmed",
+                "img": "https://img.freepik.com/premium-vector/female-user-profile-avatar-is-woman-character-screen-saver-with-emotions_505620-617.jpg"
+            },
+            "style": "",
+            "id": 5
+        },
+        {
+            "name": "Project Synergy",
+            "title": "ProjectSynergy provides a cloud based platform that enables automotive.",
+            "color": "green",
+            "status": "done",
+            "timestamp": 1662704970215,
+            "creator": {
+                "email": "sumit@learnwithsumit.com",
+                "name": "Sumit Saha",
+                "img": "https://thumbs.dreamstime.com/b/businessman-icon-vector-male-avatar-profile-image-profile-businessman-icon-vector-male-avatar-profile-image-182095609.jpg"
+            },
+            "style": "",
+            "id": 6
+        }
+    ]
+}
